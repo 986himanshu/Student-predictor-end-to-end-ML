@@ -1,3 +1,3 @@
 ##Tracking changes and learning on refactoring this codebase for possible errors
-* Modular running shows some issue even with import functionality due to some namespace management
-* I have deleted every trace of previous modular run and I will run it on my environment
+* All error resolved by fixing typo error on src\components\data_transformation.py causing issue with pickle file
+* Executed modules to create pickle files and logs in python 3.11
