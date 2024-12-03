@@ -17,10 +17,10 @@ def get_requirements(file_path:str)->List[str]:
     return requirements
 
 setup(
-name='mlproject',
-version='0.0.1',
-author='Krish',
-author_email='krishnaik06@gmail.com',
+name='Deep Learning for NLP Task',
+version='0.0.0',
+author='Himanshu',
+author_email='986himanshusharma@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt'),
 python_requires='>=3.11'
