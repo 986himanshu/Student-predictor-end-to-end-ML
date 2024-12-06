@@ -21,8 +21,7 @@ This document provides an overview of the tasks undertaken to ensure compatibili
 
 ## AWS Web Application
 
-The updated web application is now deployed on AWS Elastic Beanstalk.  
-**[http://studentperformance-env.eba-sf36vqrq.us-east-1.elasticbeanstalk.com/predictdata](#)** *(Placeholder for the actual link)*
+The updated web application is now deployed on AWS ECR
 
 ---
 *For further details, feel free to contact the author [Himanshu Sharma] of this document.*
