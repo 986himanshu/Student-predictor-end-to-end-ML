@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+peformance/pyvenv.cfg
+peformance/Scripts/pip.exe
+peformance/Scripts/pip3.12.exe
+peformance/Scripts/pip3.exe
+peformance/Scripts/python.exe
+peformance/Scripts/pythonw.exe
+.gitignore
